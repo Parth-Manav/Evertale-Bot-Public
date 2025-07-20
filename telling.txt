@@ -1,0 +1,18 @@
+as soon as game starts, the program "getting_main_menue.py"'s job is to do these things : 
+{
+first look in the "checkpoints" folder, then see where you are at the game (by matching what checkpint it is). generally you will be at checkpoint_001.....png (i say .... to tell there is something in between written too)
+ {
+	THIS SECTION WILL TELL WHAT CHECKPOINT DO WHAT : (this is a small part of the full page cause to help the program to not be stressed while looking for a lot of pixels)
+	{
+		checkpoint_001.....png : this is the start page of the game, this will be the first image you will see while opening the game, you have to tap on these cordinates : x=45, y=915 . tap these until you reach checkpoint_002.....png (tap like 4 times per second (like every 0.3 seconds) until you reach Checkpoint_002.....png )
+		checkpoint_002.....png : this is the page where the program needs swipe in order to move furter, the swiping coordinates are : x=523 to 950 , y=500 to 500 . swipe then to close the window (wait 2 second after the swipe) and then keep on tapping the new cordinates : x=1833 , y=143 (like every 0.3 seconds) until you reach checkpoint_003.....png
+		checkpoint_003.....png : this is the chekpoint to conferm that we are currently on the main menu of the game
+	}
+
+ }
+
+}
+
+the code should be forgiving, like if it coudnt find any checkpoint, end the program and tell what the error is (try to find the checkpoints for at lest 30 seconds).
+the code should be looking for all the checkpoints, this is so that it will know what to do next (i will tell more on what to do more after you find specific checkpoint in the future).
+

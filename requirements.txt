@@ -1,0 +1,7 @@
+psutil
+Pillow
+opencv-python
+numpy
+pandas
+requests
+uiautomator2

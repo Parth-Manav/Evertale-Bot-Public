@@ -1,0 +1,1283 @@
+{
+    "images": [
+        {
+            "width": 217,
+            "height": 79,
+            "id": 0,
+            "file_name": "buttons/5_SS_Skip.PNG"
+        },
+        {
+            "width": 97,
+            "height": 82,
+            "id": 1,
+            "file_name": "buttons/ALLIANCE_BUTTON_RED.PNG"
+        },
+        {
+            "width": 95,
+            "height": 86,
+            "id": 2,
+            "file_name": "buttons/ALLIANCE_BUTTON_Without_Red.PNG"
+        },
+        {
+            "width": 326,
+            "height": 60,
+            "id": 3,
+            "file_name": "buttons/Alliance_Check_in_NoticeButton.PNG"
+        },
+        {
+            "width": 245,
+            "height": 50,
+            "id": 4,
+            "file_name": "buttons/Alliance_Check_in_NoticeButton_OK_____THE_MAIN_OK_BUTTON.PNG"
+        },
+        {
+            "width": 160,
+            "height": 106,
+            "id": 5,
+            "file_name": "buttons/Alliance_War_Without_RED.PNG"
+        },
+        {
+            "width": 194,
+            "height": 103,
+            "id": 6,
+            "file_name": "buttons/ALLINCE_QUEST_Logo_RED.PNG"
+        },
+        {
+            "width": 171,
+            "height": 97,
+            "id": 7,
+            "file_name": "buttons/ARENA.PNG"
+        },
+        {
+            "width": 110,
+            "height": 56,
+            "id": 8,
+            "file_name": "buttons/Challange_Boss_Alliance_Quest.PNG"
+        },
+        {
+            "width": 260,
+            "height": 49,
+            "id": 9,
+            "file_name": "buttons/Challange_Boss_tower.PNG"
+        },
+        {
+            "width": 235,
+            "height": 44,
+            "id": 10,
+            "file_name": "buttons/Chanpionsss_Arena.PNG"
+        },
+        {
+            "width": 120,
+            "height": 63,
+            "id": 11,
+            "file_name": "buttons/Chanpionsss_Button_Arena.PNG"
+        },
+        {
+            "width": 211,
+            "height": 42,
+            "id": 12,
+            "file_name": "buttons/Chanpionsss_Left_Five_Button_Arena.PNG"
+        },
+        {
+            "width": 136,
+            "height": 46,
+            "id": 13,
+            "file_name": "buttons/CLAME_ALL_BUTTON.PNG"
+        },
+        {
+            "width": 139,
+            "height": 46,
+            "id": 14,
+            "file_name": "buttons/CLAME_BUTTON.PNG"
+        },
+        {
+            "width": 132,
+            "height": 54,
+            "id": 15,
+            "file_name": "buttons/CLAME_BUTTON_RED.PNG"
+        },
+        {
+            "width": 144,
+            "height": 51,
+            "id": 16,
+            "file_name": "buttons/CLAME_FREEEEE_BUTTON_RED.PNG"
+        },
+        {
+            "width": 131,
+            "height": 49,
+            "id": 17,
+            "file_name": "buttons/CLAME_GETTTT_BUTTON_RED.PNG"
+        },
+        {
+            "width": 54,
+            "height": 66,
+            "id": 18,
+            "file_name": "buttons/Daily_Quest_Rewards_Button_RED.PNG"
+        },
+        {
+            "width": 58,
+            "height": 65,
+            "id": 19,
+            "file_name": "buttons/Daily_Rewards_Button_RED.PNG"
+        },
+        {
+            "width": 1005,
+            "height": 194,
+            "id": 20,
+            "file_name": "buttons/DEFEAT.PNG"
+        },
+        {
+            "width": 249,
+            "height": 39,
+            "id": 21,
+            "file_name": "buttons/Explorer_compleat.PNG"
+        },
+        {
+            "width": 149,
+            "height": 37,
+            "id": 22,
+            "file_name": "buttons/EXPlorer_Left_Three.PNG"
+        },
+        {
+            "width": 258,
+            "height": 63,
+            "id": 23,
+            "file_name": "buttons/Explore_RED.PNG"
+        },
+        {
+            "width": 241,
+            "height": 47,
+            "id": 24,
+            "file_name": "buttons/E_Fifteen_Arena.PNG"
+        },
+        {
+            "width": 125,
+            "height": 139,
+            "id": 25,
+            "file_name": "buttons/Fast_Forward.PNG"
+        },
+        {
+            "width": 145,
+            "height": 174,
+            "id": 26,
+            "file_name": "buttons/Filled_Chests.PNG"
+        },
+        {
+            "width": 53,
+            "height": 52,
+            "id": 27,
+            "file_name": "buttons/Firest_CROSS _butto.PNG"
+        },
+        {
+            "width": 224,
+            "height": 130,
+            "id": 28,
+            "file_name": "buttons/FREE_Summon_into_One_RED.PNG"
+        },
+        {
+            "width": 219,
+            "height": 125,
+            "id": 29,
+            "file_name": "buttons/FREE_Summon_into_TEN_RED.PNG"
+        },
+        {
+            "width": 96,
+            "height": 85,
+            "id": 30,
+            "file_name": "buttons/HOME_Button.PNG"
+        },
+        {
+            "width": 116,
+            "height": 57,
+            "id": 31,
+            "file_name": "buttons/Locked_Button_Alliance_Quest.PNG"
+        },
+        {
+            "width": 62,
+            "height": 66,
+            "id": 32,
+            "file_name": "buttons/MAIN_CHEST_Summon_Dailies_etc.PNG"
+        },
+        {
+            "width": 59,
+            "height": 39,
+            "id": 33,
+            "file_name": "buttons/MAIN_DROP_DOWN_BUTTON.PNG"
+        },
+        {
+            "width": 230,
+            "height": 214,
+            "id": 34,
+            "file_name": "buttons/Main_RED_Dot.PNG"
+        },
+        {
+            "width": 60,
+            "height": 69,
+            "id": 35,
+            "file_name": "buttons/Message_Button.PNG"
+        },
+        {
+            "width": 118,
+            "height": 63,
+            "id": 36,
+            "file_name": "buttons/Raid_Create.PNG"
+        },
+        {
+            "width": 236,
+            "height": 50,
+            "id": 37,
+            "file_name": "buttons/Raid_Create_Second.PNG"
+        },
+        {
+            "width": 113,
+            "height": 57,
+            "id": 38,
+            "file_name": "buttons/Raid_Enter_button.PNG"
+        },
+        {
+            "width": 169,
+            "height": 84,
+            "id": 39,
+            "file_name": "buttons/RAID_Without_RED.PNG"
+        },
+        {
+            "width": 131,
+            "height": 106,
+            "id": 40,
+            "file_name": "buttons/RAID_With_RED.PNG"
+        },
+        {
+            "width": 79,
+            "height": 74,
+            "id": 41,
+            "file_name": "buttons/READY_TO_OPEN_CHESTS.PNG"
+        },
+        {
+            "width": 61,
+            "height": 72,
+            "id": 42,
+            "file_name": "buttons/Sale_Button_RED.PNG"
+        },
+        {
+            "width": 157,
+            "height": 175,
+            "id": 43,
+            "file_name": "buttons/Server_War_Without_RED.PNG"
+        },
+        {
+            "width": 96,
+            "height": 29,
+            "id": 44,
+            "file_name": "buttons/Skip_Button_Battles.PNG"
+        },
+        {
+            "width": 369,
+            "height": 41,
+            "id": 45,
+            "file_name": "buttons/SKIP_Loot_Victory_Defeat_Rewards.PNG"
+        },
+        {
+            "width": 576,
+            "height": 67,
+            "id": 46,
+            "file_name": "buttons/START_GAME.PNG"
+        },
+        {
+            "width": 117,
+            "height": 59,
+            "id": 47,
+            "file_name": "buttons/Start_Rade_Button.PNG"
+        },
+        {
+            "width": 100,
+            "height": 88,
+            "id": 48,
+            "file_name": "buttons/SUMMON_With_RED_Button.PNG"
+        },
+        {
+            "width": 635,
+            "height": 383,
+            "id": 49,
+            "file_name": "buttons/SWIPE_Second_button.PNG"
+        },
+        {
+            "width": 895,
+            "height": 314,
+            "id": 50,
+            "file_name": "buttons/VICTORY.PNG"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "5_SS_Skip"
+        },
+        {
+            "id": 1,
+            "name": "ALLIANCE_BUTTON_RED"
+        },
+        {
+            "id": 2,
+            "name": "ALLIANCE_BUTTON_Without_Red"
+        },
+        {
+            "id": 3,
+            "name": "Alliance_Check_in_NoticeButton"
+        },
+        {
+            "id": 4,
+            "name": "Alliance_Check_in_NoticeButton_OK_____THE_MAIN_OK_BUTTON"
+        },
+        {
+            "id": 5,
+            "name": "Alliance_War_Without_RED"
+        },
+        {
+            "id": 6,
+            "name": "ALLINCE_QUEST_Logo_RED"
+        },
+        {
+            "id": 7,
+            "name": "ARENA"
+        },
+        {
+            "id": 8,
+            "name": "Challange_Boss_Alliance_Quest"
+        },
+        {
+            "id": 9,
+            "name": "Challange_Boss_tower"
+        },
+        {
+            "id": 10,
+            "name": "Chanpionsss_Arena"
+        },
+        {
+            "id": 11,
+            "name": "Chanpionsss_Button_Arena"
+        },
+        {
+            "id": 12,
+            "name": "Chanpionsss_Left_Five_Button_Arena"
+        },
+        {
+            "id": 13,
+            "name": "CLAME_ALL_BUTTON"
+        },
+        {
+            "id": 14,
+            "name": "CLAME_BUTTON"
+        },
+        {
+            "id": 15,
+            "name": "CLAME_BUTTON_RED"
+        },
+        {
+            "id": 16,
+            "name": "CLAME_FREEEEE_BUTTON_RED"
+        },
+        {
+            "id": 17,
+            "name": "CLAME_GETTTT_BUTTON_RED"
+        },
+        {
+            "id": 18,
+            "name": "Daily_Quest_Rewards_Button_RED"
+        },
+        {
+            "id": 19,
+            "name": "Daily_Rewards_Button_RED"
+        },
+        {
+            "id": 20,
+            "name": "DEFEAT"
+        },
+        {
+            "id": 21,
+            "name": "Explorer_compleat"
+        },
+        {
+            "id": 22,
+            "name": "EXPlorer_Left_Three"
+        },
+        {
+            "id": 23,
+            "name": "Explore_RED"
+        },
+        {
+            "id": 24,
+            "name": "E_Fifteen_Arena"
+        },
+        {
+            "id": 25,
+            "name": "Fast_Forward"
+        },
+        {
+            "id": 26,
+            "name": "Filled_Chests"
+        },
+        {
+            "id": 27,
+            "name": "Firest_CROSS _butto"
+        },
+        {
+            "id": 28,
+            "name": "FREE_Summon_into_One_RED"
+        },
+        {
+            "id": 29,
+            "name": "FREE_Summon_into_TEN_RED"
+        },
+        {
+            "id": 30,
+            "name": "HOME_Button"
+        },
+        {
+            "id": 31,
+            "name": "Locked_Button_Alliance_Quest"
+        },
+        {
+            "id": 32,
+            "name": "MAIN_CHEST_Summon_Dailies_etc"
+        },
+        {
+            "id": 33,
+            "name": "MAIN_DROP_DOWN_BUTTON"
+        },
+        {
+            "id": 34,
+            "name": "Main_RED_Dot"
+        },
+        {
+            "id": 35,
+            "name": "Message_Button"
+        },
+        {
+            "id": 36,
+            "name": "Raid_Create"
+        },
+        {
+            "id": 37,
+            "name": "Raid_Create_Second"
+        },
+        {
+            "id": 38,
+            "name": "Raid_Enter_button"
+        },
+        {
+            "id": 39,
+            "name": "RAID_Without_RED"
+        },
+        {
+            "id": 40,
+            "name": "RAID_With_RED"
+        },
+        {
+            "id": 41,
+            "name": "READY_TO_OPEN_CHESTS"
+        },
+        {
+            "id": 42,
+            "name": "Sale_Button_RED"
+        },
+        {
+            "id": 43,
+            "name": "Server_War_Without_RED"
+        },
+        {
+            "id": 44,
+            "name": "Skip_Button_Battles"
+        },
+        {
+            "id": 45,
+            "name": "SKIP_Loot_Victory_Defeat_Rewards"
+        },
+        {
+            "id": 46,
+            "name": "START_GAME"
+        },
+        {
+            "id": 47,
+            "name": "Start_Rade_Button"
+        },
+        {
+            "id": 48,
+            "name": "SUMMON_With_RED_Button"
+        },
+        {
+            "id": 49,
+            "name": "SWIPE_Second_button"
+        },
+        {
+            "id": 50,
+            "name": "VICTORY"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 0,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                217.0,
+                79.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 17143.0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                97.0,
+                82.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 7954.0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 2,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                95.0,
+                86.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 8170.0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 3,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                326.0,
+                60.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 19560.0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 4,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                245.0,
+                50.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 12250.0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 5,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                160.0,
+                106.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 16960.0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 6,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                194.0,
+                103.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 19982.0
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 7,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                171.0,
+                97.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 16587.0
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 8,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                110.0,
+                56.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6160.0
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "category_id": 9,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                260.0,
+                49.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 12740.0
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "category_id": 10,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                235.0,
+                44.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 10340.0
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "category_id": 11,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                120.0,
+                63.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 7560.0
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "category_id": 12,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                211.0,
+                42.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 8862.0
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "category_id": 13,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                136.0,
+                46.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6256.0
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "category_id": 14,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                139.0,
+                46.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6394.0
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "category_id": 15,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                132.0,
+                54.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 7128.0
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "category_id": 16,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                144.0,
+                51.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 7344.0
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "category_id": 17,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                131.0,
+                49.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6419.0
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "category_id": 18,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                54.0,
+                66.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 3564.0
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "category_id": 19,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                58.0,
+                65.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 3770.0
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "category_id": 20,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                1005.0,
+                194.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 194970.0
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "category_id": 21,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                249.0,
+                39.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 9711.0
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "category_id": 22,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                149.0,
+                37.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 5513.0
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "category_id": 23,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                258.0,
+                63.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 16254.0
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "category_id": 24,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                241.0,
+                47.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 11327.0
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "category_id": 25,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                125.0,
+                139.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 17375.0
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "category_id": 26,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                145.0,
+                174.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 25230.0
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "category_id": 27,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                53.0,
+                52.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 2756.0
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "category_id": 28,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                224.0,
+                130.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 29120.0
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "category_id": 29,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                219.0,
+                125.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 27375.0
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "category_id": 30,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                96.0,
+                85.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 8160.0
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "category_id": 31,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                116.0,
+                57.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6612.0
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "category_id": 32,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                62.0,
+                66.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 4092.0
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "category_id": 33,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                59.0,
+                39.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 2301.0
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "category_id": 34,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                230.0,
+                214.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 49220.0
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "category_id": 35,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                60.0,
+                69.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 4140.0
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "category_id": 36,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                118.0,
+                63.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 7434.0
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "category_id": 37,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                236.0,
+                50.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 11800.0
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "category_id": 38,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                113.0,
+                57.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6441.0
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "category_id": 39,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                169.0,
+                84.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 14196.0
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "category_id": 40,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                131.0,
+                106.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 13886.0
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "category_id": 41,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                79.0,
+                74.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 5846.0
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "category_id": 42,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                61.0,
+                72.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 4392.0
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "category_id": 43,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                157.0,
+                175.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 27475.0
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "category_id": 44,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                96.0,
+                29.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 2784.0
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "category_id": 45,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                369.0,
+                41.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 15129.0
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "category_id": 46,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                576.0,
+                67.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 38592.0
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "category_id": 47,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                117.0,
+                59.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 6903.0
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "category_id": 48,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                100.0,
+                88.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 8800.0
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "category_id": 49,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                635.0,
+                383.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 243205.0
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "category_id": 50,
+            "segmentation": [],
+            "bbox": [
+                0.0,
+                0.0,
+                895.0,
+                314.0
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 281030.0
+        }
+    ]
+}
