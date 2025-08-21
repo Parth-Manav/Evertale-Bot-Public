@@ -52,3 +52,7 @@
   This bot is for educational purposes only. The use of bots or other automation tools may be against
   the terms of service of the game. Use this bot at your own risk. The developers of this project are
   not responsible for any consequences that may arise from the use of this bot.
+
+
+
+by hte way, this program is still under development
