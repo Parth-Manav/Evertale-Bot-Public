@@ -26,6 +26,8 @@ def main():
     game_launched = launcher.run()
     
     if game_launched:
+        import time
+        time.sleep(15) # Wait for 15 seconds after game launch
         logger.info("Game launched successfully. Starting automation tasks...")
         
         try:

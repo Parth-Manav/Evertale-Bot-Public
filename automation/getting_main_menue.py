@@ -63,35 +63,38 @@ def _handle_boot_page(ga):
     logger.info("Game is at the start game boot page. Proceeding with rapid tap.")
     tap_coords = (190, 930)
     tap_interval = 0.3
-    tap_timeout = 30
+    tap_timeout = 10
     start_tap_time = time.time()
+    
 
     while time.time() - start_tap_time < tap_timeout:
         ga.tap(tap_coords[0], tap_coords[1], delay_after_tap=0)
         time.sleep(tap_interval)
 
-        _, screenshot_np = ga.screen_capture.take_screenshot(save_to_disk=False)
-        if screenshot_np is None:
-            logger.warning("Failed to take screenshot during rapid tap, continuing...")
-            continue
+    # After 10 seconds of tapping, take a screenshot and check for the next state
+    _, screenshot_np = ga.screen_capture.take_screenshot(save_to_disk=False)
+    if screenshot_np is None:
+        logger.warning("Failed to take screenshot after rapid tap, cannot determine next state.")
+        return False 
 
-        # Check for the next state (sliding or home page) using their specific ROIs
-        if ga.image_recognition.find_template(screenshot_np, sliding_page_checkpoint, threshold=0.7, roi=ROI_SLIDING_PAGE):
-            logger.info("Successfully reached the sliding page.")
-            return False  # Not complete, re-evaluate state in the main loop
-        elif ga.image_recognition.find_template(screenshot_np, home_page_checkpoint, threshold=0.7, roi=ROI_HOME_PAGE):
-            logger.info("Successfully reached the home page directly from boot page.")
-            return True  # Automation complete
-
-    logger.error(f"Failed to reach sliding page within {tap_timeout}s from boot page.")
-    return False
+    if ga.image_recognition.find_template(screenshot_np, sliding_page_checkpoint, threshold=0.7, roi=ROI_SLIDING_PAGE):
+        logger.info("Successfully reached the sliding page.")
+        return False  # Not complete, re-evaluate state in the main loop
+    elif ga.image_recognition.find_template(screenshot_np, home_page_checkpoint, threshold=0.7, roi=ROI_HOME_PAGE):
+        logger.info("Successfully reached the home page directly from boot page.")
+        return True  # Automation complete
+    else:
+        logger.error(f"After {tap_timeout}s of tapping, game state not recognized from boot page.")
+        return False
+        #Automation 
+        
 
 # --- Main Execution Logic ---
 def run():
     logger.info("Starting 'getting_main_menue' automation with optimizations...")
     ga = GameActions()
 
-    # Checkpoints now include their specific ROI for targeted searching
+    # Checkpoints now include their specific ROI for targeted searching 
     checkpoints = [
         (start_game_checkpoint, 0.7, _handle_boot_page, ROI_BOOT_PAGE),
         (sliding_page_checkpoint, 0.7, _handle_sliding_page, ROI_SLIDING_PAGE),
@@ -107,6 +110,7 @@ def run():
             logger.warning("Failed to capture screenshot, retrying...")
             time.sleep(2)
             continue
+        
 
         state_handled = False
         for cp_path, threshold, handler_func, roi in checkpoints:
